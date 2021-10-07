@@ -23,7 +23,7 @@ const pB = createPatternImage(s, lw, true);
 const sr = pA.dpr * s;
 const elVideo = document.createElement("video");
 
-init().catch(console.war);
+init().catch(console.warn);
 
 async function init() {
   const stream = await navigator.mediaDevices.getUserMedia({
