@@ -1,6 +1,6 @@
 # labshad
 
-Demo at https://fxi.io/labshad/?pixelSize=20&lineWidth=9 
+Demo at https://fxi.io/labshad/ 
 
 Basic webcam shader using technique inspired from https://aem1k.com/maze-type/ 
 
